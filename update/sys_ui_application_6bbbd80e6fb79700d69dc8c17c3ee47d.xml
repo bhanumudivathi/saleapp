@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>ESM Sales Cafe</name>
+        <order/>
+        <roles>x_infte_esm_saleai.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-09 15:29:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bbbd80e6fb79700d69dc8c17c3ee47d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ESM Sales Cafe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sys_ui_application_6bbbd80e6fb79700d69dc8c17c3ee47d</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-12 05:12:57</sys_updated_on>
+    </sys_ui_application>
+</record_update>

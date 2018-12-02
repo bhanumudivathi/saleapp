@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="2313e0426ff79700d69dc8c17c3ee4df" sys_domain="global" table="x_infte_esm_saleai_opportunities" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 16:01:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb13e0426ff79700d69dc8c17c3ee4df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_infte_esm_saleai_opportunities" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">2313e0426ff79700d69dc8c17c3ee4df</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">63dbd80e6fb79700d69dc8c17c3ee418</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 16:01:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 16:01:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6313e0426ff79700d69dc8c17c3ee4e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_infte_esm_saleai_opportunities" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">2313e0426ff79700d69dc8c17c3ee4df</sys_ui_form>
+            <sys_ui_section caption="Financials" display_value="Financials" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">2713e0426ff79700d69dc8c17c3ee4e0</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 16:01:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 16:04:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83b368826ff79700d69dc8c17c3ee403</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_infte_esm_saleai_opportunities" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">2313e0426ff79700d69dc8c17c3ee4df</sys_ui_form>
+            <sys_ui_section caption="Potential Quarter Closure" display_value="Potential Quarter Closure" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">c3b368826ff79700d69dc8c17c3ee401</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 16:04:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 07:12:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a83f3024fbb970053c240f18110c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_infte_esm_saleai_opportunities" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">2313e0426ff79700d69dc8c17c3ee4df</sys_ui_form>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 07:12:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_infte_esm_saleai_opportunities</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 16:01:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2313e0426ff79700d69dc8c17c3ee4df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_infte_esm_saleai_opportunities</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2313e0426ff79700d69dc8c17c3ee4df</sys_update_name>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 16:01:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

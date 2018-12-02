@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>customer_name</display_field>
+        <field_list/>
+        <filter table="x_infte_esm_saleai_opportunities">tcv_services_license&gt;javascript:global.getCurrencyFilter('x_infte_esm_saleai_opportunities','tcv_services_license', 'USD;2000000')^EQ<item endquery="false" field="tcv_services_license" goto="false" newquery="false" operator="&gt;" or="false" value="javascript:global.getCurrencyFilter('x_infte_esm_saleai_opportunities','tcv_services_license', 'USD;2000000')"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <glyph>line-chart</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">0fc3c1866f3b9700d69dc8c17c3ee4a9</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-12 19:06:47</sys_created_on>
+        <sys_id>ef3a248f6ffb1b00d69dc8c17c3ee47d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Large Deals</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sp_instance_vlist_ef3a248f6ffb1b00d69dc8c17c3ee47d</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-12 19:13:44</sys_updated_on>
+        <table>x_infte_esm_saleai_opportunities</table>
+        <title>Large Deals</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "number,region,stage",
+		"displayValue": "number,region,stage"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="delete_multiple" query="documentkey=ef3a248f6ffb1b00d69dc8c17c3ee47d"/>
+</record_update>

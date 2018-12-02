@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2018-08-12 17:16:47</change_date>
+        <changed_by display_value="Kevin_Domadia">37b38aea6fb01300d69dc8c17c3ee443</changed_by>
+        <content display_value="Welcome to Performance Analytics Guided Setup">8de556090b0212001e684ac3b6673ae7</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-12 17:16:47</sys_created_on>
+        <sys_id>4c11d00b6fbb1b00d69dc8c17c3ee42d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2018-08-12 17:16:47</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>gsw_change_log_4c11d00b6fbb1b00d69dc8c17c3ee42d</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-12 17:16:47</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

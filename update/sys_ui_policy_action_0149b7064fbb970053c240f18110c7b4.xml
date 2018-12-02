@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>false</disabled>
+        <field>segment</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-10 07:37:22</sys_created_on>
+        <sys_id>0149b7064fbb970053c240f18110c7b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>segment</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0149b7064fbb970053c240f18110c7b4</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-10 07:37:22</sys_updated_on>
+        <table>x_infte_esm_saleai_opportunities</table>
+        <ui_policy display_value="Make fields read-only or Mandatory on Load">0f98ffc24fbb970053c240f18110c768</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

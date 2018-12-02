@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="tcv_services_license" label="TCV (Services + License)" language="en" table="x_infte_esm_saleai_opportunities">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>tcv_services_license</element>
+            <help/>
+            <hint/>
+            <label>TCV (Services + License)</label>
+            <language>en</language>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <plural>TCV (Services + License)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:55:04</sys_created_on>
+            <sys_id>f99128026ff79700d69dc8c17c3ee4ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TCV (Services + License)</sys_name>
+            <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+            <sys_update_name>sys_documentation_x_infte_esm_saleai_opportunities_tcv_services_license_en</sys_update_name>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:55:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

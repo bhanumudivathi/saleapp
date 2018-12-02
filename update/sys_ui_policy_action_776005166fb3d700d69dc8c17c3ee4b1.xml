@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>on_site_staffing</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-10 12:48:18</sys_created_on>
+        <sys_id>776005166fb3d700d69dc8c17c3ee4b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>on_site_staffing</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_776005166fb3d700d69dc8c17c3ee4b1</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-10 12:48:18</sys_updated_on>
+        <table>x_infte_esm_saleai_opportunities</table>
+        <ui_policy display_value="Make fields mandatory from SOW">04fffcd26fb3d700d69dc8c17c3ee4a4</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

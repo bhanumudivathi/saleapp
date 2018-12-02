@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph>ticket</glyph>
+        <id/>
+        <kb_article display_value="KB0000108 v1.0">3f0330019f22120047a2d126c42e70eb</kb_article>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="4">7d591c836ffb1b00d69dc8c17c3ee4c1</sp_column>
+        <sp_page display_value="kb_article">dea5792147132100ba13a5554ee4902d</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-12 17:53:16</sys_created_on>
+        <sys_id>aa695c836ffb1b00d69dc8c17c3ee4f4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Latest License Details</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sp_instance_link_aa695c836ffb1b00d69dc8c17c3ee4f4</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-12 19:22:22</sys_updated_on>
+        <title>Latest License Details</title>
+        <type>kb_article</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa695c836ffb1b00d69dc8c17c3ee4f4"/>
+</record_update>

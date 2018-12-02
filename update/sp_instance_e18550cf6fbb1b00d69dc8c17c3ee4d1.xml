@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">5b65dc8f6fbb1b00d69dc8c17c3ee4d1</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-12 17:36:16</sys_created_on>
+        <sys_id>e18550cf6fbb1b00d69dc8c17c3ee4d1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Welcome to NGE Sales App</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sp_instance_e18550cf6fbb1b00d69dc8c17c3ee4d1</sys_update_name>
+        <sys_updated_by>Pushkal.Sharma</sys_updated_by>
+        <sys_updated_on>2018-09-12 05:41:55</sys_updated_on>
+        <title>Welcome to NGE Sales App</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e18550cf6fbb1b00d69dc8c17c3ee4d1"/>
+</record_update>

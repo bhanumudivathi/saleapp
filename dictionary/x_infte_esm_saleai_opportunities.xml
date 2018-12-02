@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element dynamic_default_value="2019-08-09 01:29:29" label="Opportunities" max_length="40" name="x_infte_esm_saleai_opportunities" type="collection">
+        <element label="Contribution on License (%)" max_length="15" name="contribution_on_license" type="percent_complete"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Name" max_length="40" name="customer_name" type="string"/>
+        <element label="Duration (In months)" max_length="40" name="duration_in_months" type="integer"/>
+        <element attributes="omit_sys_original=true" label="ESM Cafe Cost" max_length="20" name="esm_cafe_cost" type="currency"/>
+        <element attributes="omit_sys_original=true" label="ESM Cafe Revenue" max_length="20" name="esm_cafe_revenue" type="currency"/>
+        <element label="Expected Start Date" max_length="40" name="expected_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Financial Year" max_length="40" name="financial_year" type="string">
+            <choice/>
+        </element>
+        <element label="Includes ESM Cafe" max_length="40" name="includes_esm_cafe" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Licenses Procured from" max_length="40" name="licenses_procured_from" type="string">
+            <choice>
+                <element label="McCamish" sequence="0" value="McCamish"/>
+                <element label="IL" sequence="1" value="IL"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="License Cost" max_length="20" name="license_cost" type="currency"/>
+        <element attributes="omit_sys_original=true" label="License Revenue" max_length="20" name="license_revenue" type="currency"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Offshore staffing" max_length="40" name="offshore_staffing" type="integer"/>
+        <element label="On-site staffing" max_length="40" name="on_site_staffing" type="integer"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Platform In Scope" max_length="1024" name="platform_in_scope" reference="release_product" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pricing Category" max_length="40" name="pricing_category" type="string">
+            <choice/>
+        </element>
+        <element label="Primary Anchor" max_length="32" name="primary_anchor" reference="sys_user" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Q1 Revenue (In Millions)" max_length="20" name="q1_revenu" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Q2 Revenue (In Millions)" max_length="20" name="q2_revenue" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Q3 Revenue (In Millions)" max_length="20" name="q3_revenue" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Q4 Revenue (In Millions)" max_length="20" name="q4_revenue" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Region" max_length="40" name="region" type="string">
+            <choice>
+                <element label="America" sequence="0" value="America"/>
+                <element label="Europe" sequence="1" value="Europe"/>
+                <element label="APAC" sequence="2" value="APAC"/>
+            </choice>
+        </element>
+        <element label="Region Lead" max_length="32" name="region_lead" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Scope of the deal" max_length="100" name="scope_of_the_deal" type="string"/>
+        <element label="Secondary Anchor" max_length="32" name="secondary_anchor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Segment" max_length="40" name="segment" type="string">
+            <choice>
+                <element label="MRCL" sequence="0" value="MRCL"/>
+                <element label="FSI" sequence="1" value="FSI"/>
+                <element label="HIL" sequence="2" value="HIL"/>
+                <element label="SOURCE" sequence="3" value="SOURCE"/>
+                <element label="IPS" sequence="4" value="IPS"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="Services" max_length="20" name="services" type="currency"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Service Line" max_length="1024" name="service_line" reference="sales_product" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="L5.Prospect" label="Stage" max_length="40" name="stage" type="string">
+            <choice>
+                <element label="L5.Prospect" sequence="0" value="L5.Prospect"/>
+                <element label="L4.Solution" sequence="1" value="L4.Solution"/>
+                <element label="L3.Proposal" sequence="2" value="L3.Proposal"/>
+                <element label="L2.Shortlist" sequence="3" value="L2.Shortlist"/>
+                <element label="L0.SOW" sequence="4" value="L0.SOW"/>
+                <element label="CL.Win" sequence="5" value="CL.Win"/>
+                <element label="Opportunity Lost" sequence="6" value="Opportunity Lost"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="omit_sys_original=true" label="TCV (Services + License)" max_length="20" name="tcv_services_license" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of deal" max_length="40" name="type_of_deal" type="string">
+            <choice>
+                <element label="Services Only" sequence="0" value="Services Only"/>
+                <element label="Services + Licenses" sequence="1" value="Services + Licenses"/>
+                <element label="Licenses Only" sequence="2" value="Licenses Only"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Service" max_length="40" name="type_of_service" type="string">
+            <choice>
+                <element label="Implementation (Green Field)" sequence="0" value="Implementation (Green Field)"/>
+                <element label="Enhancements (Brown Field)" sequence="1" value="Enhancements (Brown Field)"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="secondary_anchor"/>
+        </index>
+        <index name="index2">
+            <element name="region_lead"/>
+        </index>
+        <index name="index3">
+            <element name="primary_anchor"/>
+        </index>
+    </element>
+</database>

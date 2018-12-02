@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Sales Dashboard - Container 1">a37ecd844f146b0053c240f18110c7cf</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>Sumanth.Ravilla</sys_created_by>
+        <sys_created_on>2018-09-05 18:44:52</sys_created_on>
+        <sys_id>506bc8764fd4ef0053c240f18110c7ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sp_row_506bc8764fd4ef0053c240f18110c7ad</sys_update_name>
+        <sys_updated_by>Sumanth.Ravilla</sys_updated_by>
+        <sys_updated_on>2018-09-05 18:44:52</sys_updated_on>
+    </sp_row>
+</record_update>

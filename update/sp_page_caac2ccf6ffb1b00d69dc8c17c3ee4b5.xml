@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>sales_form</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-12 19:17:32</sys_created_on>
+        <sys_id>caac2ccf6ffb1b00d69dc8c17c3ee4b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sales_form</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sp_page_caac2ccf6ffb1b00d69dc8c17c3ee4b5</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-12 19:17:32</sys_updated_on>
+        <title>Sales Form</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=caac2ccf6ffb1b00d69dc8c17c3ee4b5"/>
+</record_update>

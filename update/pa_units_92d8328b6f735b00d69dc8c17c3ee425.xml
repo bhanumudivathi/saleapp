@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_units">
+    <pa_units action="INSERT_OR_UPDATE">
+        <format>$ (In Millions)</format>
+        <name>$ (Millions)</name>
+        <sys_class_name>pa_units</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-08-13 05:30:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92d8328b6f735b00d69dc8c17c3ee425</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>$ (Millions)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>pa_units_92d8328b6f735b00d69dc8c17c3ee425</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-08-13 05:30:20</sys_updated_on>
+    </pa_units>
+</record_update>

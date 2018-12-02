@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="Angular Material-RL">72bf148d6f731700d69dc8c17c3ee40f</sp_dependency>
+        <sp_widget display_value="Report Dashboard">762bcb224f54ef0053c240f18110c70e</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>Sumanth.Ravilla</sys_created_by>
+        <sys_created_on>2018-09-05 14:06:21</sys_created_on>
+        <sys_id>64abcf224f54ef0053c240f18110c732</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Angular Material-RL.Report Dashboard</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_64abcf224f54ef0053c240f18110c732</sys_update_name>
+        <sys_updated_by>Sumanth.Ravilla</sys_updated_by>
+        <sys_updated_on>2018-09-05 14:06:21</sys_updated_on>
+    </m2m_sp_widget_dependency>
+</record_update>

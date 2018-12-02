@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link/>
+        <name>test1</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin.rahul</sys_created_by>
+        <sys_created_on>2018-09-17 04:01:52</sys_created_on>
+        <sys_id>62447e9e4fe8230053c240f18110c7ec</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>test1</sys_name>
+        <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+        <sys_update_name>sp_widget_62447e9e4fe8230053c240f18110c7ec</sys_update_name>
+        <sys_updated_by>admin.rahul</sys_updated_by>
+        <sys_updated_on>2018-09-17 04:12:30</sys_updated_on>
+        <template><![CDATA[<div>
+<html>
+<head>
+<script>
+window.onload = function () {
+
+var options = {
+	title: {
+		text: "Desktop OS Market Share in 2017"
+	},
+	subtitles: [{
+		text: "As of November, 2017"
+	}],
+	animationEnabled: true,
+	data: [{
+		type: "pie",
+		startAngle: 40,
+		toolTipContent: "<b>{label}</b>: {y}%",
+		showInLegend: "true",
+		legendText: "{label}",
+		indexLabelFontSize: 16,
+		indexLabel: "{label} - {y}%",
+		dataPoints: [
+			{ y: 48.36, label: "Windows 7" },
+			{ y: 26.85, label: "Windows 10" },
+			{ y: 1.49, label: "Windows 8" },
+			{ y: 6.98, label: "Windows XP" },
+			{ y: 6.53, label: "Windows 8.1" },
+			{ y: 2.45, label: "Linux" },
+			{ y: 3.32, label: "Mac OS X 10.12" },
+			{ y: 4.03, label: "Others" }
+		]
+	}]
+};
+$("#chartContainer").CanvasJSChart(options);
+
+}
+</script>
+</head>
+<body>
+<div id="chartContainer" style="width: 100%; height: 300px;"></div>
+<script src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script src="https://canvasjs.com/assets/script/jquery.canvasjs.min.js"></script>
+</body>
+</html>
+</div>]]></template>
+    </sp_widget>
+</record_update>

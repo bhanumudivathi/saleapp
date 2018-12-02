@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Staffing" section_id="8e83f3024fbb970053c240f18110c76e" sys_domain="global" table="x_infte_esm_saleai_opportunities" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>dd958d1a6fb3d700d69dc8c17c3ee4f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_site_staffing</element>
+            <position>1</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>51958d1a6fb3d700d69dc8c17c3ee4f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_start_date</element>
+            <position>2</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>d1958d1a6fb3d700d69dc8c17c3ee4f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>55958d1a6fb3d700d69dc8c17c3ee4f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>offshore_staffing</element>
+            <position>4</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>d5958d1a6fb3d700d69dc8c17c3ee4f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration_in_months</element>
+            <position>5</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>59958d1a6fb3d700d69dc8c17c3ee4f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 13:10:47</sys_created_on>
+            <sys_id>d9958d1a6fb3d700d69dc8c17c3ee4f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing" display_value="Staffing" name="x_infte_esm_saleai_opportunities" sys_domain="global" view="Default view">8e83f3024fbb970053c240f18110c76e</sys_ui_section>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 13:10:47</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Staffing</caption>
+            <header>false</header>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-10 07:12:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e83f3024fbb970053c240f18110c76e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Staffing</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+            <sys_update_name>sys_ui_section_8e83f3024fbb970053c240f18110c76e</sys_update_name>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-10 07:12:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="segment" table="x_infte_esm_saleai_opportunities" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MRCL</label>
+            <language>en</language>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <sequence>0</sequence>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:56:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7f128026ff79700d69dc8c17c3ee4d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:56:48</sys_updated_on>
+            <value>MRCL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FSI</label>
+            <language>en</language>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <sequence>1</sequence>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:56:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ff16c026ff79700d69dc8c17c3ee44c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:56:48</sys_updated_on>
+            <value>FSI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HIL</label>
+            <language>en</language>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <sequence>2</sequence>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:56:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff16c026ff79700d69dc8c17c3ee44d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:56:49</sys_updated_on>
+            <value>HIL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SOURCE</label>
+            <language>en</language>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <sequence>3</sequence>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:56:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbf16c026ff79700d69dc8c17c3ee44e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:56:49</sys_updated_on>
+            <value>SOURCE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IPS</label>
+            <language>en</language>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <sequence>4</sequence>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:56:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf16c026ff79700d69dc8c17c3ee44f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:56:49</sys_updated_on>
+            <value>IPS</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>segment</element>
+            <name>x_infte_esm_saleai_opportunities</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-08-09 15:56:48</sys_created_on>
+            <sys_id>1bf16c026ff79700d69dc8c17c3ee44c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>segment</sys_name>
+            <sys_package display_value="ESM SaleAid" source="x_infte_esm_saleai">7abb580e6fb79700d69dc8c17c3ee4c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM SaleAid">7abb580e6fb79700d69dc8c17c3ee4c2</sys_scope>
+            <sys_update_name>sys_choice_x_infte_esm_saleai_opportunities_segment</sys_update_name>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-08-09 15:56:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
